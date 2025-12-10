@@ -3,11 +3,11 @@ import Register from './pages/Register';
 
 import Login from './pages/Login';
 
-import UserPage from './pages/userPage';
+import UserPage from './pages/UserPage';
 
-import AdminPage from './pages/adminPage';
+import AdminPage from './pages/AdminPage';
 
-import Manager from './pages/ manager';
+import Manager from './pages/Manager';
 import ProtectedRoute from './utils/ProtectedRoute';
 
 function App() {
